@@ -1,4 +1,4 @@
 # compare
 compare
 
-basic python code to compare two files
+basic codes to compare two files
